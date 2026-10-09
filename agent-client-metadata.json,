@@ -1,6 +1,0 @@
-{
-  "client_id": "https://jaychris420.github.io/duo-cimd-test/agent-client-metadata.json",
-  "client_name": "Acme Labs Research Agent",
-  "redirect_uris": ["http://127.0.0.1:8080/callback"],
-  "token_endpoint_auth_method": "none"
-}
